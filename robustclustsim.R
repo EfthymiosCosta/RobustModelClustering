@@ -219,13 +219,10 @@ for (clusters in nclust){
               sumvarmnm <- 0
               sumvarmtm <- 0
               sumpimcnmt <- 0
-              #sumpimnmt <- 0
               sumpimtmt <- 0
               summumcnmt <- 0
-              #summumnmt <- 0
               summumtmt <- 0
               sumvarmcnmt <- 0
-              #sumvarmnmt <- 0
               sumvarmtmt <- 0
               sumdf <- 0
               for (i in 1:clusters){
